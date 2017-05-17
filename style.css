@@ -9,42 +9,44 @@ body {
 	font-size: 18px;
 }
 
+#container {
+	width: 960px;
+	margin: 0 auto;
+}
+
 header {
 	padding: 20px;
 	margin-bottom: 10px;
-	margin-left: 145px;
+	/*margin-left: 145px;*/
 	color: #777;
 	background: #ebebeb;
-	width: 960px;
+	/*width: 960px;*/
 }
 
 nav {
 	padding: 20px;
 	margin-bottom: 10px;
-	margin-left: 145px;
+	/*margin-left: 145px;*/
 	color: #777;
 	background: #ebebeb;
-	width: 960px;
+	/*width: 960px;*/
 }
-#section {
+section {
 	width: 495px;
 	float: left;
 	background-color: #ebebeb;
 	color: #777;
-	overflow: auto;
 	height: 300px;
 	clear: both;
 }
 
-#article {
-	float:left;
+article {
 	background: #777;
 	color: #ebebeb;
-	width: 495px;
+	width: 455px;
 }
 
-#h1 {
-	float: left;
+h1 {
 	background: #ebebeb;
 	color: #777;
 	padding: 20px;
@@ -55,8 +57,7 @@ nav {
 	overflow: auto;
 }
 
-#p {
-	float: left;
+p {
 	background: #ebebeb;
 	color: #777;
 	padding: 20px;
@@ -71,7 +72,7 @@ aside {
 	width: 495px;
 	background: #ebebeb;
 	color: #777;
-	margin-right: 158px;
+	/*margin-right: 158px;*/
 	height: 300px;
 	border: 1px solid #eee;
 }
@@ -79,9 +80,9 @@ aside {
 footer {
 	padding: 20px;
 	margin-bottom: 10px;
-	margin-left: 145px;
+	/*margin-left: 145px;*/
 	color: #777;
 	background: #ebebeb;
-	width: 960px;
+	/*width: 960px;*/
 	clear: both;
 }
