@@ -78,6 +78,10 @@ aside {
 	border: 1px solid #eee;
 }
 
+#emptyDiv {
+	clear: both;
+}
+
 footer {
 	padding: 20px;
 	margin-bottom: 10px;
